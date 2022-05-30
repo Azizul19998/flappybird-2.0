@@ -11,9 +11,9 @@ const k = kaboom({
 // loadSprite()
 loadBean();
 
-loadSprite("mario", "../assets/bird.png");
-loadSprite("bg", "../assets/bg.webp");
-loadSprite("pipe", "../assets/pipe2.png");
+loadSprite("mario", "./assets/bird.png");
+loadSprite("bg", "./assets/bg.webp");
+loadSprite("pipe", "./assets/pipe2.png");
 
 
 
